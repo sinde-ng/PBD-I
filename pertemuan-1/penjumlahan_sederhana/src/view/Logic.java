@@ -115,7 +115,7 @@ public class Logic extends javax.swing.JFrame {
         int RESULT = ANGKA1 + ANGKA2;
         
         JOptionPane.showMessageDialog(this, 
-                ANGKA1 + " + " + ANGKA2 + " = " + RESULT
+                ANGKA1 + " + " + ANGKA2 + " = " + RESULT  
         );
     }//GEN-LAST:event_btn_jumlahActionPerformed
 
